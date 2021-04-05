@@ -1,4 +1,4 @@
-# Blog Mircoservices
+# Blog Microservices
 
 Very simple microservices applications for making posts and adding comments.
 For educational purpose only.
