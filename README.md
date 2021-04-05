@@ -23,3 +23,4 @@ For educational purpose only.
 4. Run `minikube ip` and use the returned IP address by adding a new entry in your `/etc/hosts` file such that:
 `xxx.xxx.xx.xxx posts.com`, where `xxx.xxx.xx.xxx` is the IP address then save the file.
 5. From the root folder, run: `skaffold dev`
+6. Open a browser and visit the `posts.com` URL or run `open posts.com` from a terminal session
